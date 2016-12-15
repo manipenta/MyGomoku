@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FieldView">
+        <attr name="strikeWidth" format="dimension"/>
+        <attr name="strikeXColor" format="color"/>
+        <attr name="strikeArcColor" format="color"/>
+    </declare-styleable>
+
+</resources>

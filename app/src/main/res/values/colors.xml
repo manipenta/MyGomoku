@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="strokeColorr">#202529</color>
+    <color name="backgroundColor">#E2E6EF</color>
+    <color name="testBlue">#07B7F2</color>
+    <color name="testRed">#E96664</color>
+    <color name="testGreen">#54E598</color>
+    <color name="testPurple">#8139A1</color>
+    <color name="testDarkRed">#882D40</color>
+    <color name="testBrightRed">#D92600</color>
+</resources>
